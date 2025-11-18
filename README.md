@@ -12,6 +12,10 @@ href="https://www.linkedin.com/in/anitra-harper-03285516b/">Finance Reporting Da
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
   - [Demonstrated competency in beginner to intermediate SQL skills](https://www.virtualbadge.io/certificate-validator?credential=ee50e7ad-9bee-42dd-b952-e4ee4ead89ee)
 
+- <b>📜Advanced SQL Boot Camp</b>
+  - [Demonstrated competency in advanced SQL skills](https://www.virtualbadge.io/certificate-validator?credential=f524d748-907d-43f8-983f-c99ea9d45354)
+
+
 
 <h2>📱Connect with me:</h2>
 <a href="https://www.linkedin.com/in/anitra-harper-03285516b/" target="_blank">
